@@ -7,10 +7,9 @@
 7599728592844182 | 8888+Usrname | 2/5
 7604449034245802 | 8888+Usrname | 2/5
 0596721191751461 | 8888+Usrname | 2/5
-Tritan-397 | 8888+Usrname | 2/5
-Aguy299 | 8888+Usrname | 2/5
-6958+Usrname | 8888+Usrname | 2/5
-7207+Usrname | 8888+Usrname | 2/5
+6958+Usrname
+7207+Usrname
+
 
 
 
